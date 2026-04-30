@@ -169,18 +169,7 @@ df.to_csv('cleaned_filled_airbnb_data.csv', index=False)
 
 ## Stage 3 — Power BI Dashboard
 
-The final cleaned CSV was loaded into Power BI Desktop for visual analysis.
-
-### Dashboard Focus Areas
-
-- Pricing analysis by neighbourhood group and room type
-- Availability patterns across NYC boroughs
-- Host verification and instant bookability distribution
-- Review activity and rating breakdown
-- Top neighbourhoods by listing count
-
-*Power BI file (.pbix) included in repository.*
-
+wait....
 ---
 
 ## Repository Structure
