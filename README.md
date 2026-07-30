@@ -186,9 +186,6 @@ airbnb-data-cleaning-sql/
 ├── sql/
 │   └── airbnb_cleaning.sql
 │
-├── powerbi/
-│   └── airbnb_dashboard.pbix
-│
 ├── Airbnb_MySQL_Documentation.pdf
 └── README.md
 ```
