@@ -167,11 +167,6 @@ df.to_csv('cleaned_filled_airbnb_data.csv', index=False)
 
 ---
 
-## Stage 3 — Power BI Dashboard
-
-wait....
----
-
 ## Repository Structure
 
 ```
