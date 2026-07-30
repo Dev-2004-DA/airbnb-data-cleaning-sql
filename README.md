@@ -219,4 +219,3 @@ Download and import via LOAD DATA LOCAL INFILE as shown in the documentation.
 **Python:** Pandas · Null Handling · Outlier Detection · Boundary Validation
 · Data Imputation · Jupyter Notebook · CSV Export
 
-**Visualisation:** Power BI Desktop · DAX · Data Modelling · Dashboard Design
